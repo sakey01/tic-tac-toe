@@ -14,6 +14,6 @@ The aim of the game is to get three noughts or crosses in a row either horizonta
 
 ```SCSS```
 
-🎥 Preview
+## 🎥 Preview
 
 https://github.com/user-attachments/assets/49e38718-e84a-4993-aa76-88296cb6e4e0
