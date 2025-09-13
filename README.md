@@ -1,13 +1,19 @@
-## Tic Tac Toe
+# Tic Tac Toe
 
-The browser version of that game we all used to play on paper.
+## 💡 About the project
 
-## Built with
+This was my very first project built with react. 
 
-- React
-- SCSS
-- Vite
+The aim of the game is to get three noughts or crosses in a row either horizontally, vertically or diagonally.
 
-## Dependencies
+## 🛠️ Built with
 
-- SASS
+```React```
+
+```Vite```
+
+```SCSS```
+
+🎥 Preview
+
+https://github.com/user-attachments/assets/49e38718-e84a-4993-aa76-88296cb6e4e0
