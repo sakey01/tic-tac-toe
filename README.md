@@ -4,7 +4,7 @@
 
 This was my very first project built with react. 
 
-The aim of the game is to get three noughts or crosses in a row either horizontally, vertically or diagonally.
+Tic Tac Toe browser game. requires two people to play.
 
 ## 🛠️ Built with
 
