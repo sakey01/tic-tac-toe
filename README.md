@@ -2,9 +2,10 @@
 
 ## 💡 About the project
 
-This was my very first project built with react. 
-
 Tic Tac Toe browser game. requires two people to play.
+
+Side note: This was my very first react project. 
+
 
 ## 🛠️ Built with
 
