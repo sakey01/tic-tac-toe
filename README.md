@@ -9,9 +9,7 @@ Tic Tac Toe browser game. requires two people to play.
 ## 🛠️ Built with
 
 ```React```
-
 ```Vite```
-
 ```SCSS```
 
 ## 🎥 Preview
